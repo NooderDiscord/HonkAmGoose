@@ -22,7 +22,7 @@ Vote|[More Information](#vote)|Report Bug|[More Information](#report-bug)
 This command will produce an embed, with a random image of a honking goose.<br/><br/>
 Usage: `./honk`
 ## Help
-This command will produce an embeded message that will contain a liost of available commands.<br/><br/>
+This command will produce an embeded message that will contain a list of available commands.<br/><br/>
 Usage: `./help`
 ## Stats
 This command will produce a small embed, that will have the current number of server the bot is in.<br/><br/>
