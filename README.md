@@ -23,7 +23,7 @@ This command will produce an embed, with a random image of a honking goose.<br/>
 Permissions: `Anyone`<br/>
 Usage: `./honk`
 ## Help
-This command will produce an embeded message that will contain a liost of available commands.<br/><br/>
+This command will produce an embeded message that will contain a list of available commands.<br/><br/>
 Permissions: `Anyone`<br/>
 Usage: `./help`
 ## Stats
