@@ -20,25 +20,33 @@ Vote|[More Information](#vote)|Report Bug|[More Information](#report-bug)
 
 ## Honk
 This command will produce an embed, with a random image of a honking goose.<br/><br/>
+Permissions: `Anyone`<br/>
 Usage: `./honk`
 ## Help
-This command will produce an embeded message that will contain a list of available commands.<br/><br/>
+This command will produce an embeded message that will contain a liost of available commands.<br/><br/>
+Permissions: `Anyone`<br/>
 Usage: `./help`
 ## Stats
 This command will produce a small embed, that will have the current number of server the bot is in.<br/><br/>
+Permissions: `Anyone`<br/>
 Usage: `./stats`
 ## Vote
 This command will produce an embed that contains a link to [discord.boats](https://discord.boats/), so you can vote on the bot.<br/><br/>
+Permissions: `Anyone`<br/>
 Usage: `./vote`
 ## Invite
 This command will produce an embed that contains a link that allows you to invite the discord bot to your own server.<br/><br/>
+Permissions: `Anyone`<br/>
 Usage: `./invite`
 ## Uptime
 This command will produce an embed that contains the current amount of time the bot has been online.<br/><br/>
+Permissions: `Anyone`<br/>
 Usage: `./uptime`
 ## Support
 This command will produce an embed that contains a link to the support discord server, Nooder Development.<br/><br/>
+Permissions: `Anyone`<br/>
 Usage: `./support`
 ## Report Bug
-This command will allow you to report a bug that you may encounter.
+This command will produce an embed that contains a link to the support discord server, Nooder Development.
+Permissions: `Anyone`<br/>
 Usage: `./reportbug bug <info>`
