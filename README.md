@@ -40,4 +40,5 @@ Usage: `./uptime`
 This command will produce an embed that contains a link to the support discord server, Nooder Development.<br/><br/>
 Usage: `./support`
 ## Report Bug
+This command will allow you to report a bug that you may encounter.
 Usage: `./reportbug bug <info>`
