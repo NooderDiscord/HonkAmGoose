@@ -1,7 +1,7 @@
 # Honk Am Goose
 The repository for the "Honk Am Goose" discord bot.
 
-[![JS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript) [![Build Status](https://img.shields.io/badge/build-passing-%2343853D?style=for-the-badge&logo=node.js)](https://github.com/Mxmnt/BloxNetworkBot) 
+[![JS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript) [![Build Status](https://img.shields.io/badge/build-passing-%2343853D?style=for-the-badge&logo=node.js)](https://github.com/NooderDiscord/HonkAmGoose) 
 
 
 - [Honk Am Goose](#honk-am-goose)
