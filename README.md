@@ -1,4 +1,4 @@
-# ![Goose](https://cdn.discordapp.com/emojis/796117695548358697.png?v=1&size=48x48) Honk Am Goose
+# Honk Am Goose ![Goose](https://cdn.discordapp.com/emojis/796117695548358697.png?v=1&size=48x48) 
 The repository for the "Honk Am Goose" discord bot.
 
 [![JS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript) [![Build Status](https://img.shields.io/badge/build-passing-%2343853D?style=for-the-badge&logo=node.js)](https://github.com/NooderDiscord/HonkAmGoose) 
