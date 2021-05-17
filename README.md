@@ -5,6 +5,7 @@ The repository for the "Honk Am Goose" discord bot.
 
 
 - [Honk Am Goose](#honk-am-goose)
+- [Website](https://honk.tazhys.gg)
   - [Commands](#commands)
 
 # Commands
